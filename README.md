@@ -24,4 +24,16 @@ in any one cluster. For certain applications, effects of this
 noise can be lessened by averaging over different clusters
 (whose errors are not correlated), e.g., when searching for
 systematic differences between astrometric and spectroscopic
-radial-velocity values." (3)
+radial-velocity values[. . .] It should be noted that the selection process used to
+arrive at the final sample may have a significant impact
+on the estimated internal velocity dispersion. The cleaning
+process successively removes those stars that deviate most
+from the mean cluster velocity, thus successively reducing
+σbv for the ‘cleaner’ samples. While designed to remove
+non-members and other outliers, this procedure naturally
+affects also the mean characteristics of the remaining stars.
+For example, in the case of the Hyades, stars in the outskirts
+of the cluster are preferentially removed during the
+rejection procedure, meaning that the resulting clean samples
+more or less correspond to the stars within the tidal
+radius. " (3)
