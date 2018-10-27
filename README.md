@@ -7,7 +7,7 @@
 
 4. https://arxiv.org/pdf/1410.0192.pdf
 
-5. http://web.mit.edu/fluids-modules/www/exper_techniques/2.Propagation_of_Uncertaint.pdf
+5. http://www.geol.lsu.edu/jlorenzo/geophysics/uncertainties/Uncertaintiespart2.html
 
 
  
