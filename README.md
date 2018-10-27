@@ -9,8 +9,5 @@
 
 5. http://web.mit.edu/fluids-modules/www/exper_techniques/2.Propagation_of_Uncertaint.pdf
 
-# Concerns 
 
- - Have yet to propogate errors 
- - Plot hippocaros original observations to show evolution of data. 
  
