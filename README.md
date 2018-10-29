@@ -8,7 +8,3 @@
 4. https://arxiv.org/pdf/1410.0192.pdf
 
 5. http://www.geol.lsu.edu/jlorenzo/geophysics/uncertainties/Uncertaintiespart2.html
-
-6. https://www.kpu.ca/sites/default/files/Faculty%20of%20Science%20%26%20Horticulture/Physics/PHYS%201120%20Error%20Propagation%20Solutions.pdf
-
- 
