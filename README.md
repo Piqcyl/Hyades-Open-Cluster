@@ -7,8 +7,4 @@
 
 4. https://arxiv.org/pdf/1410.0192.pdf
 
-# Concerns 
-
- - Have yet to propogate errors 
- - Plot hippocaros original observations to show evolution of data. 
- 
+5. http://www.geol.lsu.edu/jlorenzo/geophysics/uncertainties/Uncertaintiespart2.html
