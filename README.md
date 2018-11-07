@@ -1,6 +1,6 @@
 # The Hyades
 
-Below is a qualitative summary of the method used to analyze the Hyades. My advisor intends for me to test the limits of this method going forward.
+Below is a brief qualitative summary of the method used to analyze the Hyades. I exclude any indepth interpretation of the physical properties of stars of interest. 
 
 - Note: My other repository "Pleiades-Open-Cluster" is a refined version of this method applied to a more distant star cluster.
 
