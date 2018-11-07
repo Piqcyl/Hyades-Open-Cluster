@@ -2,9 +2,10 @@
 
 Below is a qualitative summary of the method used to analyze the hyades moving group.
 
-Key Topics: Moving cluster method, normal distribution and extreme Observations, error propagation, parametric bootstrap resampling.
+- Key Topics: Moving cluster method, normal distribution and extreme Observations, error propagation, parametric bootstrap resampling.
 
-Process
+# Process
+
 “Hyades1” - (Data with spectroscopic observations) 
 
 1. Import data without radial velocity
@@ -15,7 +16,8 @@ Process
 6. Print relevant statistics and plots regarding rv, and lambda which will be useful when analyzing Hyades2
 7. Finalized dataset, “final”
 
-“Hyades2” - (Data with spectroscopic observations) 
+“Hyades2” - (Data with spectroscopic observations)
+
 1. Similarly as in step (2), preform hypothesis testing with normal distribution but instead use “final” as a more representative distribution of Hyades cluster to test against.
 2. Using filtered lambda data, calculate the average and run it through function to calculate radial velocities for stars with out spectroscopic observations. 
 3. Extend proper motions to identify moving cluster point of convergence. 
@@ -23,7 +25,7 @@ Process
 5. Use personal judgement to decide on what constitutes an “extreme value” and filter accordingly. 
 6. Finalized dataset, “final1”.
 
-Conclusion
+# Conclusion
 
 1. Plot color magnitude diagram of “final” + “final1”
 2. Implement parametric bootstrap to create confidence interval for distance (parsecs.
@@ -31,7 +33,7 @@ Conclusion
 
 Previously, I concluded that are around 330 stars in the Hyades cluster. In my most recent revision I decided to tighten my definition of membership via point of convergence and filtering of extremities uncharacteristic of the core population of stars. For most of these extremes, they tended to miss the point of convergence or converge with another extreme outside of the interval. I assume these stars are on the fringe of being considered “core members” and are possibly being stripped due to some nearby gravitational. Interestingly they all tend to appear in the same area, further supporting this idea. 
 
-Concerns
+# Concerns
 
 - Despite making the criterion for membership stricter, I believe that my application of statistics is weak and a few non-members go un-detected. One of these stars that looks suspicious is the one just below the middle of the main sequence on the final color magnitude diagram. My first thought is that this is one of the stars mentioned above but another guess is that it’s a stray star that was born from a different protostellar cloud and wandered into the gravitational pull of the Hyades.  
 - In order to effectively generalize this method to other moving groups I intend to systematize my determination of point of convergence.
