@@ -1,6 +1,6 @@
 # The Hyades
 
-  Below is a qualitative summary of the method used to analyze the Hyades. My advisor intends for me to test the limits of this method going forward.
+Below is a qualitative summary of the method used to analyze the Hyades. My advisor intends for me to test the limits of this method going forward.
 
 - Note: My other repository "Pleiades-Open-Cluster" is a refined version of this method applied to a more distant star cluster.
 
@@ -31,7 +31,7 @@
 2. Implement parametric bootstrap to create confidence interval for distance (parsecs.
 3. Show 3d plot of cluster and print calculated statistics of interest (all of which have propagated errors) as well as previous estimates in astrophysical literature. 
 
-   Previously, I concluded that are around 330 stars in the Hyades cluster. In my most recent revision I decided to tighten my definition of membership via point of convergence and filtering of extremities uncharacteristic of the core population of stars. For most of these extremes, they tended to miss the point of convergence or converge with another extreme outside of the interval. I assume these stars are on the fringe of being considered “core members” and are possibly being stripped due to some nearby gravitational. Interestingly they all tend to appear in the same area, further supporting this idea. 
+Previously, I concluded that are around 330 stars in the Hyades cluster. In my most recent revision I decided to tighten my definition of membership via point of convergence and filtering of extremities uncharacteristic of the core population of stars. For most of these extremes, they tended to miss the point of convergence or converge with another extreme outside of the interval. I assume these stars are on the fringe of being considered “core members” and are possibly being stripped due to some nearby gravitational. Interestingly they all tend to appear in the same area, further supporting this idea. 
 
 # Concerns
 
