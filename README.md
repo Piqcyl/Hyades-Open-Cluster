@@ -18,8 +18,8 @@ Below is a qualitative summary of the method used to analyze the Hyades.
 
 “Hyades2” - (Data with spectroscopic observations)
 
-1. Similarly as in step (2), preform hypothesis testing with normal distribution but instead use “final” as a more representative distribution of Hyades cluster to test against.
-2. Using filtered lambda data, calculate the average and run it through function to calculate radial velocities for stars with out spectroscopic observations. 
+1. Similarly as in step (2), preform hypothesis testing with normal distribution by testing against “final”, a more representative distribution of Hyades cluster.
+2. Using filtered lambda data, calculate the average and run it through moving cluster relation to calculate radial velocities for stars with out spectroscopic observations. 
 3. Extend proper motions to identify moving cluster point of convergence. 
 4. Investigate outliers for proper motion, proper motion error, calculated radial velocity, and calculated radial velocity error.
 5. Use personal judgement to decide on what constitutes an “extreme value” and filter accordingly. 
@@ -36,7 +36,7 @@ Previously, I concluded that are around 330 stars in the Hyades cluster. In my m
 # Concerns
 
 - Despite making the criterion for membership stricter, I believe that my application of statistics is weak and a few non-members go un-detected. One of these stars that looks suspicious is the one just below the middle of the main sequence on the final color magnitude diagram. My first thought is that this is one of the stars mentioned above but another guess is that it’s a stray star that was born from a different protostellar cloud and wandered into the gravitational pull of the Hyades.  
-- In order to effectively generalize this method to other moving groups I intend to systematize my determination of point of convergence.
+- In order to effectively generalize this method to other moving groups I intend to systematize my determination of point of convergence. Another region that needs to be systemetized is determining what constitutes an extreme observation. Possible application of extreme value theory to quantify this. 
 
 # References
 1. http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?1998A%26A...331...81P&amp;data_type=PDF_HIGH&amp;whole_paper=YES&amp;type=PRINTER&amp;filetype=.pdf
