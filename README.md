@@ -1,8 +1,8 @@
 # The Hyades
 
-Below is a qualitative summary of the method used to analyze the Hyades.
+Below is a qualitative summary of the method used to analyze the Hyades. My advisor intends for me to test the limits of this method going forward.
 
-- Key Topics: Moving cluster method, normal distribution and extreme Observations, error propagation, parametric bootstrap resampling.
+- Note: My other repository "Pleiades-Open-Cluster" is a refined version of this method applied to a more distant star cluster.
 
 # Process
 
