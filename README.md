@@ -4,7 +4,7 @@ Below is a qualitative summary of the method used to analyze the Hyades. My advi
 
 - Note: My other repository "Pleiades-Open-Cluster" is a refined version of this method applied to a more distant star cluster.
 
-# Process
+# Analysis
 
 “Hyades1” - (Data with spectroscopic observations) 
 
