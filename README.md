@@ -1,6 +1,6 @@
 # The Hyades
 
-Below is a qualitative summary of the method used to analyze the hyades moving group.
+Below is a qualitative summary of the method used to analyze the Hyades.
 
 - Key Topics: Moving cluster method, normal distribution and extreme Observations, error propagation, parametric bootstrap resampling.
 
